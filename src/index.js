@@ -35,7 +35,7 @@ function createMaktup(mak) {
 
 function createCard(mak) {
   refs.section.innerHTML = card(mak);
-  clearInput();
+  // clearInput();
 }
 
 function clearInput() {
